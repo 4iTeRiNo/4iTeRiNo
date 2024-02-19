@@ -2,7 +2,7 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<img src="public/dev-working_rounded.gif?raw=true" href="https://github.com/4iTeRiNo" alt="CoDiNg RocKs"  width="70%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/4iTeRiNo" alt="CoDiNg RocKs"  width="70%"/><br>
 
 <p><strong>Меня зовут Игорь. Являюсь Front-End разработчиком</p>
 
