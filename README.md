@@ -40,13 +40,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=4iTeRiNo&show_icons=true&hide_border=true&layout=compact&theme=dracula" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4iTeRiNo&layout=compact&theme=dracula&hide_border=true" width="34.5%"/>
-
-<details>
-  <summary>More stats</summary>
-  
+ 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4iTeRiNo&theme=bear" >
-
-</details>
   
 <hr></hr>
 
