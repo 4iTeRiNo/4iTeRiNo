@@ -23,16 +23,17 @@
 ![Axios](https://img.shields.io/badge/Axios/Fetch-black?style=flat-square&logo=axios)
 ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=940374)
 
-- <img alt="GIF" src="./public/Developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **React & Jest**.
+- <img alt="GIF" src="./public/imgToMd/Developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **React &
+  Jest**.
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="./public/dumbbellPress.gif?raw=true" width="20" />&nbsp; I like **BodyBuilding or just on Active sports**.
-  <br>
-- <img src="./public/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Pc game, Movies, or
-  cats**.<img src="./public/hyperkitty.gif?raw=true" width="20" /><br>
-- <img src="./public/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram:
+- <img src="./public/imgToMd/dumbbellPress.gif?raw=true" width="20" />&nbsp; I like **BodyBuilding or just on Active
+  sports**. <br>
+- <img src="./public/imgToMd/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Pc game, Movies, or
+  cats**.<img src="./public/imgToMd/hyperkitty.gif?raw=true" width="20" /><br>
+- <img src="./public/imgToMd/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram:
   **[Igor](https://t.me/igor0515)**<br>
-- &nbsp;&nbsp;<img src="./public/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;Fun fact: Banging your head against a
-  wall for one hour burns **150 calories**.<br>
+- &nbsp;&nbsp;<img src="./public/imgToMd/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;Fun fact: Banging your head
+  against a wall for one hour burns **150 calories**.<br>
 
 ## ⚡ GitHub Stats
 
